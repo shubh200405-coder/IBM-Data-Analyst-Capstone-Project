@@ -1,13 +1,21 @@
-📊 IBM Data Analyst Capstone Project
+📊 IBM Data Analyst Capstone Project – Technology Industry Analysis
 🔍 Project Overview
 
-This project analyzes global technology trends using real-world developer survey data. The goal was to uncover insights about current technology usage, future skill demand, and workforce demographics.
+This project analyzes global technology trends using real-world developer survey data. The objective was to identify current technology usage patterns, emerging skill demands, and workforce demographics within the tech industry.
 
-🛠 Tools & Technologies
+🎯 Objectives
 
-Python
+Analyze current technology adoption
 
-Pandas
+Identify future technology trends
+
+Examine demographic distribution in tech
+
+Build insights for data-driven decision-making
+
+🛠 Tools & Technologies Used
+
+Python (Data Cleaning & Analysis)
 
 SQL
 
@@ -17,20 +25,25 @@ IBM Watson Studio
 
 Google Looker Studio
 
-📈 Key Insights
+📈 Key Findings
 
-JavaScript, HTML/CSS, and SQL dominate current tech usage
+JavaScript, HTML/CSS, and SQL dominate current usage
 
-Rising demand for Python, Kotlin, and Go
+Python, Kotlin, and Go show rising demand
 
-Strong cloud adoption (AWS, Docker, Linux)
+Strong cloud and container adoption
 
-Significant gender imbalance in the tech workforce
+Significant gender imbalance in the workforce
 
-📊 Dashboards Included
+📂 Project Files
 
-Current Technology Trends
+📄 Project Report (PDF)
 
-Future Technology Trends
+📊 Dashboard Visualizations
 
-Demographics Analysis
+📑 Presentation Slides
+
+👤 Author
+
+Shubh Srivastava
+Aspiring Data Analyst
